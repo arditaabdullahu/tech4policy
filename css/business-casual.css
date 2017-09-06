@@ -6,7 +6,7 @@
 
 body {
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
-  background: url('../img/bg.jpg') no-repeat center center fixed;
+  background: url('../img/images.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -49,7 +49,7 @@ h1 {
 }
 
 .bg-overlay {
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(0, 0, 0, 0.2);
 }
 
 hr.divider {
